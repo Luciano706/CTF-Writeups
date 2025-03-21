@@ -10,8 +10,6 @@
 
 The first step was to access the provided URL to examine the phishing site. Navigating to the URL, I found a login page mimicking a webmail service called "Cmail".
 
-![Cmail Phishing Page](https://i.imgur.com/placeholder.png)
-
 The page contained a simple login form with fields for email and password, designed to steal credentials from unsuspecting users.
 
 ## Site Structure Analysis
